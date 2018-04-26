@@ -14,3 +14,5 @@ At the same time the initial costs of lithium-ion batteries are dramatically dec
 The background and results obtained with the grid_storage_171222d.py within the project GridCon and the first months of the follow-up
 project GridCon2 as well as results obtained previously within the project SESAM (www.sesam-project.de) have been presented at the
 IRES 2018 in Düsseldorf. The slides of the presentation and the paper submitted for the proceedings of IRES 2018 are included.
+
+The full report on the work done in GridCon will be published in German soon and then be added to this repository.
