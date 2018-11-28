@@ -7,4 +7,4 @@ The tool economics_BAUM.py is based on the tool economics.py using oemof v0.1. I
 
 The background and results obtained with the grid_storage_171222d.py within the project GridCon and the first months of the follow-up project GridCon2 as well as results obtained previously within the project SESAM (www.sesam-project.de) have been presented at the IRES 2018 in Düsseldorf. The slides of the presentation at the IRES 2018 and the final publication in Energy Procedia are included.
 
-The full report on the work done in GridCon is only available in German.
+The full report on the work done in GridCon in German (GridCon AP4 Ergebnisbericht vs3.7.pdf) is included in this repository.
